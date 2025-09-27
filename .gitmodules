@@ -1,0 +1,3 @@
+[submodule "keyboards"]
+        path = keyboards
+        url = https://github.com/wdch23638-debug/keyboards.git
